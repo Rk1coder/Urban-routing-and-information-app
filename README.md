@@ -1,6 +1,6 @@
-# kapsul_sia_doz
+#Urban-routing-and-information-app
 
-SiaDoz project.
+
 
 ## Getting Started
 
